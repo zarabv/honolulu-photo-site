@@ -1,22 +1,21 @@
-# Honolulu Photo Site
+# Honolulu Photo Site – Modern Version
 
-A simple Next.js website for your photography business in Honolulu.
+A clean, styled landing page for promoting photo sessions in Hawaii.
 
 ## Features
 
-- Clear pricing and packages
-- Gallery with example images
-- Client testimonials
-- Google Form integration for bookings
+- Responsive design with tabs
+- Gallery grid layout
+- Styled testimonials
+- Google Form integration
+- Easy to update
 
-## Setup Instructions
+## How to Use
 
-1. Upload this to GitHub
-2. Deploy on Vercel: https://vercel.com/import/git
-3. Done!
+1. Upload to GitHub
+2. Deploy with Vercel
+3. Replace photo names in the gallery section when ready
 
-## Contact
+## Author
 
-Zara Bravo  
-📧 zarabravos@hotmail.com  
-📸 IG: @yourhandle (customize in index.js)
+Zara Bravo – zarabravos@hotmail.com
